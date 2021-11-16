@@ -9,6 +9,6 @@
   "author": "Nathan Font-Fife",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.517.0"
+    "aws-sdk": "^2.814.0"
   }
 }
